@@ -8,6 +8,7 @@ This is the frontend repository for RentMate, a web application for managing ren
 
 To get started with the RentMate frontend project, follow these steps:
 
+1. Folk the repository:
 1. Clone the repository to your local machine:
 
 ```
