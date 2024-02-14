@@ -9,12 +9,19 @@ This is the frontend repository for RentMate, a web application for managing ren
 To get started with the RentMate frontend project, follow these steps:
 
 1. Clone the repository to your local machine:
+
 ```git clone https://github.com/your-username/RentMate-frontend.git```
+
 2. Navigate to the project directory:
+
 ```cd RentMate-frontend```
+
 3. Install the dependencies:
+
 ```npm install```
+
 4. Start the development server:
+
 ```npm run dev```
 
 ## Contributing
