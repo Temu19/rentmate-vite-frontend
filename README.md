@@ -1,4 +1,4 @@
-# RentMate Frontend
+# RentMate: Frontend
 
 ## React + TypeScript + Vite
 
