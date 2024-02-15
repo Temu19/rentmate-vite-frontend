@@ -2,32 +2,32 @@
 
 ## React + TypeScript + Vite
 
-This is the frontend repository for RentMate, the assets needed for the project are add the color, spacing & the sample data
+This repository contains the frontend code for RentMate, an application for managing rental properties. It includes the constants and assets such as colors, spacing, and sample data.
 
 ## Getting Started
 
 To get started with the RentMate frontend project, follow these steps:
 
 1. Folk the repository:
-1. Clone the repository to your local machine:
+2. Clone the repository to your local machine:
 
 ```
 git clone https://github.com/your-username/RentMate-frontend.git
 ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 ```
 cd RentMate-frontend
 ```
 
-3. Install the dependencies:
+4. Install the dependencies:
 
 ```
 npm install
 ```
 
-4. Start the development server:
+5. Start the development server:
 
 ```
 npm run dev
